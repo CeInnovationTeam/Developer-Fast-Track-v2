@@ -10,5 +10,5 @@ Acesse a sequência de labs ⬇
 - [Lab. #5 - Operating Cloud Native Applications](/Lab.%20%235%20-%20Operating%20Cloud%20Native%20Applications)
 
 Aproveite e confira as certificações para Developers na OCI! 💻🚀
-- [OCI Developer Associate 2021](https://mylearn.oracle.com/learning-path/become-an-oci-developer-associate/35644/102197)!
-- [OCI DevOps Professional 2022](https://mylearn.oracle.com/learning-path/become-an-oci-devops-professional/35644/105156)!
+- 🏅 [OCI Developer Associate 2021](https://mylearn.oracle.com/learning-path/become-an-oci-developer-associate/35644/102197)
+- 🏅 [OCI DevOps Professional 2022](https://mylearn.oracle.com/learning-path/become-an-oci-devops-professional/35644/105156)

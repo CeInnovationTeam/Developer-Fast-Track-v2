@@ -20,7 +20,7 @@ Nesta etapa, você construirá uma esteira de desenvolvimento, com o serviço **
 
  1. Faça o [login](https://www.oracle.com/cloud/sign-in.html) em sua conta na OCI. 
 
- 2. Realize os labs [Lab. #1](../Lab.%20%231%20-%20Resource%20Provisioning) e [Lab #2](Lab.%20%232%20-%20Developing%20Cloud%20Native%20Applications%20-%20Parte%201).
+ 2. Realize os labs [Lab. #1](../Lab.%20%231%20-%20Resource%20Provisioning) e [Lab #2](../Lab.%20%232%20-%20Developing%20Cloud%20Native%20Applications%20-%20Parte%201).
 
  3. No 🍔 menu hambúrguer, acesse: **Observability & Management** → **Application Performance** → **Administration**.
 

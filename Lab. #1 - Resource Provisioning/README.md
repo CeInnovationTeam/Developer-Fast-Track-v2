@@ -91,5 +91,5 @@ Como primeiro passo, devemos fazer o download do arquivo (zip) no repositório d
 
 10. Após finalizar o Apply com sucesso, podemos conferir o provisionamento dos nossos recursos!
 
-### ✔ Ambientes provisionados com sucesso!!! Você foi capaz de provisionar recursos usando Terraform na OCI! 🚀
+### ✔ Ambientes provisionados com sucesso!! Você foi capaz de provisionar recursos usando Terraform na OCI! 🚀
 

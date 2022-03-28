@@ -17,4 +17,3 @@ Esse workshop foi desenvolvido com o intuito de demonstrar as funcionalidades da
 - [LAB 01 - Preparando o Ambiente](./LAB01/README.md)
 - [LAB 02 - Functions](./LAB02/README.md)
 - [LAB 03 - Events](./LAB03/README.md)
-clear

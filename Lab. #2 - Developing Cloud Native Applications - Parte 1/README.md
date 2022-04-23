@@ -2,7 +2,7 @@
 
 Laboratório para mostrar na prática o funcionamento das ferramentas de developer no OCI.
 
-## Objectivo
+## Objetivo
 
 Criar uma aplicação no Kubernetes com as imagens de container armazenadas no Oracle Container Registry (OCIR). O backend da aplicação será exposto através do API Gateway, onde receberá os headers de CORS necessários para se comunicar com o frontend.
 

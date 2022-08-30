@@ -76,7 +76,7 @@ Como primeiro passo, devemos fazer o download do arquivo (zip) no repositório d
 
 5. Clique em **Next**, para podermos configurar alguns parâmetros sobre os recursos a serem provisionados.
 
-6. Nesta nova tela, lembre-se de selecionar o compartment criado, como abaixo e clicar em **Mostrar opções avançadas**.
+6. Nesta nova tela, lembre-se de selecionar o compartment criado previamente e clicar em **Mostrar opções avançadas**.
 
 ![](./images/IMG02.PNG)
 

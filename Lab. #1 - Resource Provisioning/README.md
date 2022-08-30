@@ -82,7 +82,7 @@ Como primeiro passo, devemos fazer o download do arquivo (zip) no repositório d
 
 7. Antes de prosseguir, lembre-se de selecionar a versão "v1.23.4" na opção **Kubernetes Version**.
 
-![](./images/IMG_OKE.PNG)
+![](./images/IMG_OKE.png)
 
 8. Clique em **Next**.
 

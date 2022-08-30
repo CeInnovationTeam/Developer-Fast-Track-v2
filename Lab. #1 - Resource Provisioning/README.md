@@ -52,9 +52,8 @@ Excelente!!! Podemos agora iniciar com os passos do nosso lab!
 
 Como primeiro passo, devemos fazer o download do arquivo (zip) no repositório do github.
 
- 1. Para isso, acesse o [repositório](https://github.com/CeInnovationTeam/terraform-dev-linuxtips) e clique em **Download ZIP**.
+ 1. Para isso, acesse o [repositório](https://github.com/CeInnovationTeam/terraform-dev-ft) e clique em **Download ZIP**.
   
-
 ![](./images/IMG01.PNG)
 
 - - -
@@ -67,7 +66,7 @@ Como primeiro passo, devemos fazer o download do arquivo (zip) no repositório d
 
 ![](./images/IMG04_01.PNG)
 
-3. Nesta nova janela, certifique que está no compartment "root" e clique em **Create Stack**.
+3. Nesta nova janela, acesse o compartment criado previamente e clique em **Create Stack**.
 
 ![](./images/IMG05.PNG)
 
@@ -77,19 +76,23 @@ Como primeiro passo, devemos fazer o download do arquivo (zip) no repositório d
 
 5. Clique em **Next**, para podermos configurar alguns parâmetros sobre os recursos a serem provisionados.
 
-6. Nesta nova tela, lembre-se de selecionar o compartment criado, como abaixo.
+6. Nesta nova tela, lembre-se de selecionar o compartment criado, como abaixo e clicar em **Mostrar opções avançadas**.
 
 ![](./images/IMG02.PNG)
 
-7. Clique em **Next**.
+7. Antes de prosseguir, lembre-se de selecionar a versão "v1.23.4" na opção **Kubernetes Version**.
 
-8. Criada nossa stack, clique em **Apply** e confirme a ação.
+![](./images/IMG_OKE.PNG)
+
+8. Clique em **Next**.
+
+9. Criada nossa stack, clique em **Apply** e confirme a ação.
 
 ![](./images/IMG07.PNG)
 
-9. O provisionamento dos recursos deverá durar em torno de 25 minutos.
+10. O provisionamento dos recursos deverá durar em torno de 25 minutos.
 
-10. Após finalizar o Apply com sucesso, podemos conferir o provisionamento dos nossos recursos!
+11. Após finalizar o Apply com sucesso, podemos conferir o provisionamento dos nossos recursos!
 
 ### ✔ Ambientes provisionados com sucesso!!! Você provisionou recursos usando Terraform na OCI! 🚀
 
